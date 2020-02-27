@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     HomePage(),
     MyPage(),
   ];
-  var tabs = ["组件", "状态"];
+  var tabs = ["组件", "动画"];
   var tabIcons = [Icons.home, Icons.account_circle];
 
   @override
