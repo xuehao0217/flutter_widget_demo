@@ -2,4 +2,4 @@
 
 ## Flutter中常见的组件使用
 
-<img width="200" height="360" src="https://github.com/xuehao0217/flutter_widget_demo/blob/master/screen/screen.gif"/>
+<img width="400" height="720" src="https://github.com/xuehao0217/flutter_widget_demo/blob/master/screenshot/screen.gif"/>
