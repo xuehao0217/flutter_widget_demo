@@ -1,6 +1,6 @@
 # flutter_widget_demo
 
-## Flutter中常见的组件使用
+## Flutter中常见的组件以及主题等使用
 
 <img width="400" height="680" src="https://github.com/xuehao0217/flutter_widget_demo/blob/master/screenshot/screenshot.gif"/>
 <img width="400" height="680" src="https://github.com/xuehao0217/flutter_widget_demo/blob/master/screenshot/screenshot1.gif"/>
